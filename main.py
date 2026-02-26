@@ -1,5 +1,5 @@
 # ===== STORE INFO (Tuple) =====
-store_info = ("Dhiru Kirana Store", "Meerut")
+store_info = ("Kirana Store",)
 
 # ===== GST =====
 gst = 18
@@ -116,4 +116,5 @@ while True:
         break
 
     else:
+
         print("❌ Invalid choice")
