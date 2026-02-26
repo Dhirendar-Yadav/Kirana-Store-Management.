@@ -1,0 +1,16 @@
+Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+Local environment
+venv/
+.venv/
+env/
+
+OS generated files
+.DS_Store
+Thumbs.db
+
+Ignore local bill files
+bill.txt
